@@ -1,3 +1,3 @@
-# Fake_bluescreen
+# Fake_Bluescreen
 
-Created with CSY
+Created by CSY
